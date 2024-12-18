@@ -1,7 +1,7 @@
 # Hi! I'm Hyeonsuk 🙋‍♂️
 
  ### 👣 Footprint
- - 🏫 Kyonggi Univ - Department of Computer engineering (2018.03 ~ 2024.02) 
+ - 🏫 경기대학교 - AI 컴퓨터공학부 전공 (2018.03 ~ 2024.02) 
  - 🧑🏻‍💻 프로그래머스 클라우드 기반 백엔드 엔지니어링 데브코스 [3기] (2024.11 ~ ing)	
 
 ---
