@@ -47,6 +47,4 @@
 
   ### 🚀 Contact
   <a href="mailto:devhyeonsuk@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=devhyeonsuk@gmail.com"/></a> 
-  <a href="https://hyeonlife.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://hyeonlifestory.tistory.com/"/>
-    
-  
+  <a href="https://velog.io/@janghyeonsuk/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@janghyeonsuk/posts"/>
