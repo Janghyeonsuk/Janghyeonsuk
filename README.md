@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=dark" height="165">
 </p>
 
 <h2 align="center">📃 Licenses 📜</h2>
