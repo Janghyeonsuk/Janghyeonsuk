@@ -28,9 +28,9 @@
 
 <h2 align="center">🚀 Contact Me!</h2>
 <p align="center">
-  <a href="https://hyeonlife.notion.site/portfolio" target="_blank">
+<!--   <a href="https://hyeonlife.notion.site/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white" alt="Portfolio Badge">
-  </a>
+  </a> -->
   <a href="mailto:devhyeonsuk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
