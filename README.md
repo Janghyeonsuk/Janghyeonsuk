@@ -29,7 +29,7 @@
 <h2 align="center">🚀 Contact Me!</h2>
 <p align="center">
   <a href="mailto:devhyeonsuk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://velog.io/@janghyeonsuk/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
