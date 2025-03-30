@@ -20,9 +20,6 @@
 </p>
 
 <h2 align="center">📊 My Stats</h2>
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjanghyeonsuk&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=Github+Views&edge_flat=false"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=dark" height="165">
