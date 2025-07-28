@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 Status
 
 <p align="center">
   <a href="https://solved.ac/tbvjflaos" target="_blank">
