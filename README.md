@@ -2,13 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8B8&center=true&vCenter=true&width=435&lines=Backend+Engineer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
-### 🧑‍💻 About Me
+<!--### 🧑‍💻 About Me
  - 🎓 AI 컴퓨터공학부 (2018.03 ~ 2024.02)
  - 🗺️ 한국 관광 데이터 활용 공모전(한국관광공사 & 카카오) (2024.04 ~ 2024.10)
  - ☁️ 프로그래머스 클라우드 백엔드 엔지니어링 데브코스 3기 (2024.11 ~ 2025.05)
 
 ---
 
+-->
 ### 🛠️ Tech Stack
 
 #### 🧑‍💻 Language
