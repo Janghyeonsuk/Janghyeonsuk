@@ -48,14 +48,10 @@
 ### 📊 Status
 
 <p align="center">
-  <a href="https://solved.ac/tbvjflaos" target="_blank">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=tbvjflaos" alt="Solved.ac Profile"/>
-  </a>
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=tbvjflaos" alt="Solved.ac Profile" height="150" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=tokyonight&hide_border=true" height="150" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 ---
