@@ -40,8 +40,8 @@
 
 ### 🧾 Certifications
 
-- 📜 SQLD (2022.12 ~)
-- 📜 정보처리기사 (2023.09 ~)
+- **SQLD** (2022.12 ~)
+- **정보처리기사** (2023.09 ~)
 
 ---
 
@@ -52,6 +52,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=tokyonight&hide_border=true" height="150" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
-
----
