@@ -46,7 +46,7 @@
 
 ### 📊 Status
 
-<p align="center">
+<p>
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=tbvjflaos" alt="Solved.ac Profile" height="150" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=tokyonight&hide_border=true" height="150" style="margin-right: 10px;" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=tokyonight&hide_border=true" height="150" /> -->
