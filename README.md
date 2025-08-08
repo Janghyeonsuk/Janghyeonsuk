@@ -6,7 +6,6 @@
  - 🎓 AI 컴퓨터공학부 (2018.03 ~ 2024.02)
  - 🗺️ 한국 관광 데이터 활용 공모전(한국관광공사 & 카카오) (2024.04 ~ 2024.10)
  - ☁️ 프로그래머스 클라우드 백엔드 엔지니어링 데브코스 3기 (2024.11 ~ 2025.05)
-
 ---
 
 -->
@@ -50,5 +49,5 @@
 <p align="center">
   <img src="http://mazassumnida.wtf/api/generate_badge?boj=tbvjflaos" alt="Solved.ac Profile" height="150" style="margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=janghyeonsuk&show_icons=true&theme=tokyonight&hide_border=true" height="150" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janghyeonsuk&layout=compact&theme=tokyonight&hide_border=true" height="150" /> -->
 </p>
